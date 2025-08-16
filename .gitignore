@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+vendor/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+error.log
+access.log
+
+# Temporary Files
+/tmp/
+*.tmp
+*.temp
+
+# Config Files (for security)
+config_local.php
+.env
+.env.local
+
+# Uploaded Files (if implemented)
+uploads/
+files/
+
+# Cache Files
+cache/
+*.cache
+
+# Database Backups
+*.sql.bak
+backup/
